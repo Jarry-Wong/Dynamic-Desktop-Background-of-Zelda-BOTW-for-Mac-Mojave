@@ -18,7 +18,7 @@ CEMU模拟器运行的，因为可以有3840×2160的4K画幅的截图啊！P掉
 
 制作过程
 ---
-制作过程参考https://github.com/mczachurski/wallpapper
+制作过程参考https://github.com/mczachurski/wallpapper<br>
 我发现BOTW的昼长可达15+个小时，所以选择了北京夏至日当天的太阳高度角来制作。
 <br>
 
