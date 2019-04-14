@@ -1,0 +1,130 @@
+[
+  {
+    "fileName": "am9.png",
+    "isPrimary": true,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": 45.82,
+    "azimuth": 96.68
+  },
+  {
+    "fileName": "am10.5.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": 62.26,
+    "azimuth": 118.43
+  },
+  {
+    "fileName": "pm0.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": 73.19,
+    "azimuth": 167.20
+  },
+  {
+    "fileName": "pm1.5.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": 67.32,
+    "azimuth": 228.99
+  },
+  {
+    "fileName": "pm3.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": 51.87,
+    "azimuth": 256.98
+  },
+  {
+    "fileName": "pm4.5.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": 34.73,
+    "azimuth": 272.95
+  },
+  {
+    "fileName": "pm6.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": 17.78,
+    "azimuth": 286.08
+  },
+  {
+    "fileName": "pm7.5.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": 2.13,
+    "azimuth": 299.47
+  },
+  {
+    "fileName": "pm9.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": -11.98,
+    "azimuth": 314.93
+  },
+  {
+    "fileName": "pm10.5.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": -22.04,
+    "azimuth": 333.77
+  },
+  {
+    "fileName": "am0.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": -26.58,
+    "azimuth": 355.86
+  },
+  {
+    "fileName": "am1.5.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": -24.38,
+    "azimuth": 18.66
+  },
+  {
+    "fileName": "am3.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": -16.07,
+    "azimuth": 38.79
+  },
+  {
+    "fileName": "am4.5.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": -3.18,
+    "azimuth": 55.35
+  },
+  {
+    "fileName": "am6.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": 11.97,
+    "azimuth": 69.29
+  },
+  {
+    "fileName": "am7.5.png",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": false,
+    "altitude": 28.62,
+    "azimuth": 82.26
+  }
+]
