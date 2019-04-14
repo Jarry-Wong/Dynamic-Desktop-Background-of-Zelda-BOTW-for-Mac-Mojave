@@ -4,7 +4,7 @@
 =====
 使用方法
 ---
-只要把[Dynamic-Zelda.heic](https://github.com/Jarry-Wong/Dynamic-Zelda-BOTW-Desktop-Background-for-Mac-Mojave/blob/master/Dynamic-Zelda-BOTW.heic)设置成桌面就可以了，需要MacOS Mojave系统。<br>
+只要把[Dynamic-Zelda-BOTW.heic](https://github.com/Jarry-Wong/Dynamic-Zelda-BOTW-Desktop-Background-for-Mac-Mojave/blob/master/Dynamic-Zelda-BOTW.heic)设置成桌面就可以了，需要MacOS Mojave系统，不行的可以升级一下。<br>
 
 一点说明
 ---
