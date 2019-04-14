@@ -1,4 +1,4 @@
-# Dynamic Zelda BOTW Desktop Background for Mac Mojave
+# Dynamic Desktop Background of Zelda BOTW for Mac Mojave
 
 自制 塞尔达传说：旷野之息 MacOS昼夜自动变化动态桌面
 =====
